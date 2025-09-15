@@ -1,0 +1,25 @@
+[
+  {
+    "sted": "punk1",
+    "tekst": "Københavns lufthavn",
+    "billede": "eckersberg"
+  },
+  {
+    "sted": "punk2",
+    "overskrift": "Assistens Kirkegård",
+    "tekst": "Henry Heerup ligger begravet her.",
+    "billede": "ib"
+  },
+  {
+    "sted": "punk3",
+    "overskrift": "Heerup Museum i Rødovre",
+    "tekst": "Her kan du opleve poesi i de ting du ser hver dag.",
+    "billede": "bonde"
+  },
+  {
+    "sted": "punk4",
+    "overskrift": "Frederiksberg Hospital",
+    "tekst": "Her blev Henry Heerup født i 1907.",
+    "billede": "heerup"
+  }
+]
